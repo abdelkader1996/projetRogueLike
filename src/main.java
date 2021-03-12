@@ -3,6 +3,7 @@ import classes.Monde;
 import classes.Salle;
 
 public class main {
+    //
     public static void main(String[] args) {
         Monde monde;
         Camera camera;
